@@ -1,2 +1,4 @@
 *.exe
 just for practice
+.vscode/
+launch
